@@ -1,4 +1,4 @@
-# Prova técnica Teste de API/Utilizando restAssured + Java + Junit
+# Prova técnica Teste de API.
 
 Este é o projeto de API que deve ser automatizado para o desafio.
 
